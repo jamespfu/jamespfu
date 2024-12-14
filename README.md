@@ -4,7 +4,7 @@
 
 * website: [jamespfu.com](https://jamespfu.com)
 * github: [jamespfu](#)
-* email: [jamesfup@gmail.com](mialto:jamesfup@gmail.com)
+* email: [jamesfup@gmail.com](mailto:jamesfup@gmail.com)
 * linkedin: [jamespfu](https://www.linkedin.com/in/jamespfu/)
 * unsplash: [jamespfu](https://unsplash.com/@jamespfu)
 
