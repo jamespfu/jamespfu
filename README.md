@@ -9,7 +9,7 @@
 * unsplash: [jamespfu](https://unsplash.com/@jamespfu)
 
 
-### [Github Stats](https://github.com/jamespfu/#-github_stats)
+## [Github Stats](https://github.com/jamespfu/#-github_stats)
 
 [![James' GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jamespfu&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![James' GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jamespfu&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
